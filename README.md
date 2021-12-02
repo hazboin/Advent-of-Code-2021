@@ -1,4 +1,4 @@
-My attempt to finish AoC 2021.
+My attempt to finish AoC 2021, just for fun
 
 ## Progress
 | Day                                | Status   | Solution                           |
