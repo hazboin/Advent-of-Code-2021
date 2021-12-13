@@ -12,3 +12,7 @@ My attempt to finish AoC 2021, just for fun
 | [🎄 Day 7](day7)                   | ⭐⭐    | [🎯 Day 7](day7/AoC-7.ipynb)       |
 | [🎄 Day 8](day8)                   | ⭐⭐    | [🎯 Day 8](day8/AoC-8.ipynb)       |
 | [🎄 Day 9](day9)                   | ⭐⭐    | [🎯 Day 9](day9/AoC-9.ipynb)       |
+| [🎄 Day 10](day10)                   | ⭐⭐    | [🎯 Day 10](day10/AoC-10.ipynb)       |
+| [🎄 Day 11](day11)                   | ⭐⭐    | [🎯 Day 11](day11/AoC-11.ipynb)       |
+| [🎄 Day 12](day12)                   | ⭐⭐    | [🎯 Day 12](day12/AoC-12.ipynb)       |
+
